@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Club</string>
+    <string name="chelsea">Chelsea</string>
+    <string name="mu">Man.Utd</string>
+    <string name="arsenal">Arsenal</string>
+    <string name="liverpool">Liverpool</string>
+
+</resources>
